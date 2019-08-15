@@ -9,7 +9,14 @@
 
 Blackhat spy &amp; Whitehat spy SAO from Def Con 27
 
+The pencil sketch that started it all on June 14th:
+
+![concept art](img/spivspi-concept-art.jpg)
+
+Bling bling:
+
 ![blackhat](img/spivspi-blackhat.jpg)
+
 ![whitehat](img/spivspi-whitehat.jpg)
 
 ## WTF is all this crap
