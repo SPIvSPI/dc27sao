@@ -1,0 +1,21 @@
+#ifndef ANIMATIONS_H_
+#define ANIMATIONS_H_
+
+//#define NOSPY
+#define WHITE
+//#define BLACK
+
+#define WHITE_ANIMATION_COUNT 3
+#define BLACK_ANIMATION_COUNT 3
+
+#ifdef NOSPY
+	#define ANIMATION_COUNT 2
+#endif
+#ifdef WHITE
+	#define ANIMATION_COUNT WHITE_ANIMATION_COUNT
+#endif
+#ifdef BLACK
+	#define ANIMATION_COUNT BLACK_ANIMATION_COUNT
+#endif
+
+#endif // ANIMATIONS_H_
