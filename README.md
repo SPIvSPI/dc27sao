@@ -24,6 +24,7 @@ Bling bling:
 - `/firmware` - shitty code that runs the blinkenlites
 - `/gui` - not-so-shitty gui animation code generator tool (with shittyness added in a rush at the end)
 - `/hardware` - schematics and pcb stuff
+- `/img` - some pix from the adventure
 
 ## Other crap
 
