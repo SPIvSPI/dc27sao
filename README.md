@@ -9,17 +9,25 @@
 
 Blackhat spy &amp; Whitehat spy SAO from Def Con 27
 
+![blackhat](img/spivspi-blackhat.jpg)
+![whitehat](img/spivspi-whitehat.jpg)
+
 ## WTF is all this crap
 
 - `/firmware` - shitty code that runs the blinkenlites
 - `/gui` - not-so-shitty gui animation code generator tool (with shittyness added in a rush at the end)
 - `/hardware` - schematics and pcb stuff
 
+## Other crap
+
+- The twitters https://twitter.com/SPIvSPI
+- Hackaday page https://hackaday.io/project/166811-spivspi-sao-dc27-badge
+
 ## Guilty Parties
 
 ```
-steve/corelit - Over-excellent GUI animation tool
 xres0nance - Hardware & firmware
+steve/corelit - Over-excellent GUI animation tool
 ```
 
 ## Shoutz n Greetz
